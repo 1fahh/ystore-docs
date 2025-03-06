@@ -133,7 +133,8 @@ patterns:
 # Por exemplo: "gm|gamemode"
 # Você pode criar quantas aliases quiser.
 commands:
-  tower: 'torre|torres|tower|towers'
+  tower: 'torre|tower|'
+
 ]]>
 </code-block>
 </chapter>
@@ -158,16 +159,21 @@ commands:
 # Sistemas principais.
 
 general:
+  # Ativar o preview no shift
+  shift-preview-enabled: true
+  # Ativar o preview sem shift
+  no-shift-preview-enabled: true
+  # Ativar o preview no shift
+  shift-preview: true
+  # Ativar o preview sem shift (teste)
+  no-shift-preview: true
   # Tempo que levará para atualizar o preview
   # em ticks (20 ticks = 1 segundo)
   refresh-time: 5
   # Distância do preview
   # em blocos
   preview-distance: 5
-  # Ativar o preview no shift
-  shift-preview: true
-  # Ativar o preview sem shift
-  no-shift-preview: false
+
 ]]>
 </code-block>
 </chapter>
@@ -197,18 +203,16 @@ chat:
     &a/tower give &8- &7Dar uma estrutura para um/todos os jogadores.
     &a/tower reload &8- &7Recarrega as configurações.
 
-  structure-give: '&aVocê deu &7{amount}x {structure}&a para o jogador &7{player}&a.'
   structure-received: '&aVocê recebeu &7{amount}x {structure}&a.'
   structure-list: |
     &cEstrutura não encontrada.
     &cEstruturas disponíveis: &f{list}
+
 ]]>
 </code-block>
 </chapter>
 
 </chapter>
-
-
 ## Erros comuns
 <primary-label ref="errors"/>
 
