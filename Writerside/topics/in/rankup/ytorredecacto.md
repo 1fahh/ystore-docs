@@ -158,16 +158,21 @@ commands:
 # Sistemas principais.
 
 general:
+  # Ativar o preview no shift
+  shift-preview-enabled: true
+  # Ativar o preview sem shift
+  no-shift-preview-enabled: true
+  # Ativar o preview no shift
+  shift-preview: true
+  # Ativar o preview sem shift (teste)
+  no-shift-preview: true
   # Tempo que levará para atualizar o preview
   # em ticks (20 ticks = 1 segundo)
   refresh-time: 5
   # Distância do preview
   # em blocos
   preview-distance: 5
-  # Ativar o preview no shift
-  shift-preview: true
-  # Ativar o preview sem shift
-  no-shift-preview: false
+
 ]]>
 </code-block>
 </chapter>
@@ -207,8 +212,6 @@ chat:
 </chapter>
 
 </chapter>
-
-
 ## Erros comuns
 <primary-label ref="errors"/>
 
