@@ -1,5 +1,5 @@
 # yClans
-<secondary-label ref="rankup"/>
+<secondary-label ref="RankUP"/>
 
 ### Descrição
 Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco e mercado!
