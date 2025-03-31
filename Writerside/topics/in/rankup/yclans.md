@@ -1,10 +1,8 @@
 # yClans
 <secondary-label ref="rankup"/>
 
-### Descrição
-Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco e mercado!
-
-### Versões
+### Descriçã
+Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco e mercado! Testeeee### Versões
 <secondary-label ref="1.8"/>
 <secondary-label ref="1.9"/>
 <secondary-label ref="1.10"/>
