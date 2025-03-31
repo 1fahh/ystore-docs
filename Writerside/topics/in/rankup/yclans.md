@@ -18,8 +18,6 @@ Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco e m
 <secondary-label ref="1.18"/>
 <secondary-label ref="1.19"/>
 <secondary-label ref="1.20"/>
-<secondary-label ref="1.21"/>
-
 ### Demonstração
 <video src="//www.youtube.com/watch?v=i_gzW5Dm4MA"/>
 
