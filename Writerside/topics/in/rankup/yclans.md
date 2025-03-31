@@ -2708,11 +2708,9 @@ public static ClanAPIHolder getAPI() {
 }
 </code-block>
 
-## Erros comuns
+## Erros comun
+s
 <primary-label ref="errors"/>
-
-Antes de configurar o plugin, revise os pontos listados aqui para evitar problemas frequentes durante a configuração.
-
 <seealso style="cards">
     <category ref="wrs">
         <a href="yplugins.md"></a>        <a href="https://ystoreplugins.com.br/plugins/detalhes/4-yClans">Site do plugin yClans</a>
