@@ -2,7 +2,7 @@
 <secondary-label ref="rankup"/>
 
 ### Descrição
-Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco e mercado!
+Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco!
 
 ### Versões
 <secondary-label ref="1.8"/>
