@@ -126,9 +126,9 @@ yclans.clan.verify - Permissão para o /clan verificar
 yclans.clan.spy - Permissão para o /clan spy
 yclans.clan.entrar - Permissão para o /clan entrar
 yclans.clan.deletar - Permissão para o /clan deletar
-yclans.clan.reload - Permissão para o /clan reload
-yclans.clan.givespecialitem - Permissão para o /clan givespecialitem</code-block>
+yclans.clan.reload - Permissão para o /clan reload</code-block>
 </chapter>
+
 
 ## Placeholders
 <primary-label ref="placeholders"/>
