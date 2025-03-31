@@ -79,9 +79,9 @@ Uma nova forma de gerenciar clans no servidor, conta com baú do clan, banco e m
 /clan spy - Alterna o modo espião
 /clan entrar - Força a entrada em um clan
 /clan deletar - Deleta um clan
-/clan reload - Recarrega os arquivos de configuração
-/clan givespecialitem - Dá itens especiais para um jogador</code-block>
+/clan reload - Recarrega os arquivos de configuração</code-block>
 </chapter>
+
 
 <chapter title="Permissões" id="permissions" collapsible="true">
 <code-block lang="plain text">yclans.use - Permissão para o /clan
